@@ -1,0 +1,21 @@
+.Card-div {
+    height: 150px;
+    width: 400px;
+    margin: 30px;
+    position: relative;
+    text-align: center;
+    border: 1px solid;
+
+    &_icon {
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 7px;
+        right: 7px;
+    }
+
+    &_span {
+        font-size: 30px;
+
+    }
+}

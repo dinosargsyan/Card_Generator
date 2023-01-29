@@ -1,0 +1,11 @@
+.Card_Generate {
+    display: grid;
+    grid-template-columns: auto auto;
+    height: 440px;
+    width: 80%;
+    float: left;
+    margin: auto;
+    overflow-y: auto;
+    border-top: 0.5px solid;
+    border-bottom: 0.5px solid;
+}

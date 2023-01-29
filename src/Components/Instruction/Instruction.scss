@@ -1,0 +1,12 @@
+.instruction {
+    width: 20%;
+    height: 100%;
+    right: 0;
+    position: absolute;
+    display: inline;
+    border-left: 0.5px solid;
+
+    &_span {
+        margin: 0 auto;
+    }
+}
